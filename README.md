@@ -1,4 +1,4 @@
-![logo](![Purple Abstract Graphic Design LinkedIn Article Cover Image](https://github.com/user-attachments/assets/de784190-a141-4832-9b67-f83b5756885f)
+![](![Purple Abstract Graphic Design LinkedIn Article Cover Image](https://github.com/user-attachments/assets/de784190-a141-4832-9b67-f83b5756885f)
 )
 <h1 align="center">Hi 👋, I'm Abdul-Samad-Feroz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
