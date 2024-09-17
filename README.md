@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-samad-feroz&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-samad-feroz" /> </p>
 
-- 🔭 I’m currently working on [Portfolio](file:///C:/Users/LAP%20Zone/Desktop/Portfolio/Portfolio-Website/index.html)
+- 🔭 I’m currently working on [My own Portfolio](file:///C:/Users/LAP%20Zone/Desktop/Portfolio/Portfolio-Website/Portfolio.html)
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [file:///C:/Users/LAP%20Zone/Desktop/Portfolio/Portfolio-Website/index.html](file:///C:/Users/LAP%20Zone/Desktop/Portfolio/Portfolio-Website/index.html)
+- 👨‍💻 All of my projects are available at [file:///C:/Users/LAP%20Zone/Desktop/Portfolio/Portfolio-Website/Portfolio.html](file:///C:/Users/LAP%20Zone/Desktop/Portfolio/Portfolio-Website/Portfolio.html)
 
 - 📝 I regularly write articles on [Visual Studio Code](Visual Studio Code)
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **sanaa1engineering@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/LAP%20Zone/Desktop/Portfolio/Portfolio-Website/index.html](file:///C:/Users/LAP%20Zone/Desktop/Portfolio/Portfolio-Website/index.html)
+- 📄 Know about my experiences [file:///C:/Users/LAP%20Zone/Desktop/Portfolio/Portfolio-Website/Portfolio.html](file:///C:/Users/LAP%20Zone/Desktop/Portfolio/Portfolio-Website/Portfolio.html)
 
 - ⚡ Fun fact **Hazrat Muhammad (S.A.W) ne farmaya: "Jo shakhs logon ke liye aasani paida karega, Allah uske liye duniya aur aakhirat mein aasani paida karega." (Sahih Muslim)**
 
