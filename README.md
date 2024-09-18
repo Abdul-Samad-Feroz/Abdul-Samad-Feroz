@@ -37,5 +37,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-samad-feroz&show_icons=true&locale=en&layout=compact" alt="abdul-samad-feroz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-samad-feroz&show_icons=true&locale=en" alt="abdul-samad-feroz" /></p>
-
+<center>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-samad-feroz&" alt="abdul-samad-feroz" /></p>
