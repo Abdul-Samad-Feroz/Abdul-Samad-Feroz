@@ -1,4 +1,5 @@
-
+(![Purple Abstract Graphic Design LinkedIn Article Cover Image](https://github.com/user-attachments/assets/434a76aa-ad91-4f4b-a2f5-c3d82e6bd448)
+)
 
 <h1 align="center">Hi 👋, I'm Abdul-Samad-Feroz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
