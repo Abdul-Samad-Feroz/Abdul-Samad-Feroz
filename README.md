@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [file:///C:/Users/LAP%20Zone/Desktop/Portfolio/Portfolio-Website/Portfolio.html](file:///C:/Users/LAP%20Zone/Desktop/Portfolio/Portfolio-Website/Portfolio.html)
 
-- 📝 I regularly write articles on [Visual Studio Code](Visual Studio Code)
+- 📝 I regularly write articles on [Visual Studio Code and Codeblocks]
 
 - 💬 Ask me about **HTML,CSS,BOOTSTRAP**
 
