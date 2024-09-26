@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [file:///C:/Users/LAP%20Zone/Desktop/Portfolio/Portfolio-Website/Portfolio.html](file:///C:/Users/LAP%20Zone/Desktop/Portfolio/Portfolio-Website/Portfolio.html)
 
-- ⚡ Fun fact **Hazrat Muhammad (S.A.W) ne farmaya: "Jo shakhs logon ke liye aasani paida karega, Allah uske liye duniya aur aakhirat mein aasani paida karega." (Sahih Muslim)**
+- ⚡ Fun fact **The Prophet Muhammad (S.A.W) said: "Whoever makes things easy for others, Allah will make things easy for him in this world and the Hereafter." (Sahih Muslim)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
