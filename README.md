@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdul samad feroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul samad feroz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdul-samad-feroz-41734a329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul samad feroz" height="30" width="40" /></a>
 <a href="https://fb.com/abdul samad feroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul samad feroz" height="30" width="40" /></a>
 <a href="https://youtube.com/@abdulsamadferoz-sq8gd?si=rw6pi1E_Tgb0g5tr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdul samad" height="30" width="40" /></a>
 </p>
