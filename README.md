@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-samad-feroz&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-samad-feroz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-samad-feroz" alt="abdul-samad-feroz" /></a> </p>
 
 - 🔭 I’m currently working on My own [Portfolio](file:///C:/Users/LAP%20Zone/Desktop/Portfolio/Portfolio-Website/index.html)
 
