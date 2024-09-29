@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-samad-feroz&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-samad-feroz" /> </p>
 
 
-- 🔭 I’m currently working on a [Cofee Shop Website](file:///C:/Users/LAP%20Zone/Desktop/Portfolio/Portfolio-Website/index.html)
+- 🔭 I’m currently working on my own [Portfolio Website](file:///C:/Users/LAP%20Zone/Desktop/Portfolio/Portfolio-Website/index.html)
 
 - 🌱 I’m currently learning **C++**
 
