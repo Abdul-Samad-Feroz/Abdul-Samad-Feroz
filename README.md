@@ -26,8 +26,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdul samad feroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul samad feroz" height="30" width="40" /></a>
-<a href="https://fb.com/abdul samad feroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul samad feroz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdul-samad-feroz-41734a329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul samad feroz" height="30" width="40" /></a>
+<a href="https://www.facebook.com/people/Abdul-Samad-Feroz/pfbid0oxpRNhSgEg3GYv9MjhF3nHpMhYRuw9uYWtTD6YgRzvBw2caffFkdYBNUAV5SYff7l/?mibextid=qi2Omg&rdid=G7lf0pvB28NvTdAW&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FQpN4EMrJTP18YK9R%2F%3Fmibextid%3Dqi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul samad feroz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/abdul samad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdul samad" height="30" width="40" /></a>
 </p>
 
