@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are Availible at https://abdulsamads-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are Availible at https://abdulsamads-portfolio.netlify.app/
 
 - 📝 I regularly write articles on [**Visual Studio Code and Codeblocks**]
 
