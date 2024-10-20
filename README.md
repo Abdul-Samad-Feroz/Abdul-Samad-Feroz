@@ -8,11 +8,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-samad-feroz&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-samad-feroz" /> </p>
 
 
-- 🔭 I’m currently working on a [**Cofee Shop Website**](file:///C:/Users/LAP%20Zone/Desktop/Portfolio/Portfolio-Website/index.html)
+- 🔭 I’m currently working on a [**Graphic Designers Portfolio Website**](https://abubakar-khalids-portfolio.netlify.app/)
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [file:///C:/Users/LAP%20Zone/Desktop/Portfolio/Portfolio-Website/index.html](file:///C:/Users/LAP%20Zone/Desktop/Portfolio/Portfolio-Website/index.html)
+- 👨‍💻 All of my projects are Availible at https://abdulsamads-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [**Visual Studio Code and Codeblocks**]
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **sanaa1engineering@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/LAP%20Zone/Desktop/Portfolio/Portfolio-Website/index.html](file:///C:/Users/LAP%20Zone/Desktop/Portfolio/Portfolio-Website/index.html)
+- 📄 Know about my experiences [https://abdulsamads-portfolio.netlify.app/](https://abdulsamads-portfolio.netlify.app/)
 
 - ⚡ Fun fact **The Prophet Muhammad (S.A.W) said: "Whoever makes things easy for others, Allah will make things easy for him in this world and the Hereafter." (Sahih Muslim)**
 
