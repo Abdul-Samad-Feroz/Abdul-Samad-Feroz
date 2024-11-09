@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-samad-feroz&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-samad-feroz" /> </p>
 
 
-- 🔭 I’m currently working on a [**Graphic Designers Portfolio Website**](https://abubakar-khalids-portfolio.netlify.app/)
+- 🔭 I’m currently working on a [**Company Website Project**](https://sana-engineering-services.netlify.app/)
 
 - 🌱 I’m currently learning **C++**
 
