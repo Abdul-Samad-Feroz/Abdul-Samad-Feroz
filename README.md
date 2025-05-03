@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 
-<p align="left"> <img src="" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-samad-feroz&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-samad-feroz" /> </p>
 
 
 - 🔭 I’m currently working on a [**Cofee Shop website**](https://cofee-spot.netlify.app/)
