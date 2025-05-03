@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C++** and **Javascript**
 
-- 👨‍💻 All of my projects are Availible at https://abdulsamads-portfolio.netlify.app/
+- 👨‍💻 All of my projects are Availible at [My Portfolio Website] (https://abdulsamads-portfolio.netlify.app/)
 
 - 📝 I regularly write code on [**Visual Studio Code**]
 
