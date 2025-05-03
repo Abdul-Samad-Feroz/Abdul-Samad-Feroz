@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul-Samad-Feroz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="(https://github.com/user-attachments/assets/8119f4d6-9c47-4c51-8297-45fea050a554)
+<img align="right" alt="coding" width="400" src="[](https://github.com/user-attachments/assets/8119f4d6-9c47-4c51-8297-45fea050a554)"
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-samad-feroz&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-samad-feroz" /> </p>
