@@ -1,6 +1,3 @@
-![Purple Abstract Graphic Design LinkedIn Article Cover Image](https://github.com/user-attachments/assets/2f3da238-50d7-4389-a475-0cf323283171)
- 
-
 <h1 align="center">Hi 👋, I'm Abdul-Samad-Feroz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
@@ -9,19 +6,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-samad-feroz&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-samad-feroz" /> </p>
 
 
-- 🔭 I’m currently working on a [**Company Website Project**](https://sana-engineering-services.netlify.app/)
+- 🔭 I’m currently working on a [**Cofee Spot website**]()
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++** and **Javascript**
 
 - 👨‍💻 All of my projects are Availible at https://abdulsamads-portfolio.netlify.app/
 
-- 📝 I regularly write articles on [**Visual Studio Code and Codeblocks**]
-
-- 💬 Ask me about **HTML,CSS,BOOTSTRAP**
+- 📝 I regularly write code on [**Visual Studio Code**]
 
 - 📫 How to reach me **sanaa1engineering@gmail.com**
-
-- 📄 Know about my experiences [https://abdulsamads-portfolio.netlify.app/](https://abdulsamads-portfolio.netlify.app/)
 
 - ⚡ Fun fact **The Prophet Muhammad (S.A.W) said: "Whoever makes things easy for others, Allah will make things easy for him in this world and the Hereafter." (Sahih Muslim)**
 
