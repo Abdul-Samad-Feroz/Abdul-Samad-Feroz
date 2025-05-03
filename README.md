@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-samad-feroz&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-samad-feroz" /> </p>
 
 
-- 🔭 I’m currently working on a [**Cofee Spot website**](https://cofee-spot.netlify.app/)
+- 🔭 I’m currently working on a [**Cofee Shop website**](https://cofee-spot.netlify.app/)
 
 - 🌱 I’m currently learning **C++** and **Javascript**
 
