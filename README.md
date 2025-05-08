@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a [**My Portfolio Website**](https://abdulsamads-portfolio.netlify.app/)
 
-- 🌱 I’m currently learning **C++** and **Javascript**
+- 🌱 I’m currently learning and **Javascript**
 
 - 👨‍💻 All of my projects are Availible at [**My Portfolio**](https://abdulsamads-portfolio.netlify.app/)
 
