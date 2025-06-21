@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul-Samad-Feroz</h1>
+<h1 align="center">Hi 👋, I'm Abdul Samad Feroz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/b24c5028-5f73-4c6a-885c-a6f0c6726c2f">
