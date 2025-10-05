@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a [**Weather Forecast Website**](https://github.com/Abdul-Samad-Feroz/Weather-Forecast-Website)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently relearning **HTML**
 
 - 👨‍💻 All of my projects are Availible at [**My Portfolio**](https://abdulsamads-portfolio.vercel.app)
 
