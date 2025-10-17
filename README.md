@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-samad-feroz&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-samad-feroz" /> </p>
 
 
-- 🔭 I’m currently working on a [**Weather Forecast Website**](https://github.com/Abdul-Samad-Feroz/Weather-Forecast-Website)
+- 🔭 I’m currently working on a [**Simple Resturant Website**](https://abdul-samad-feroz.github.io/Learning-Web-and-App-Development/Module%201/Assignment%209%20(Resturant%20Website)/index.html)
 
 - 🌱 I’m currently relearning **HTML**
 
