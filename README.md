@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a [**Cofee Shop Website**](https://github.com/Abdul-Samad-Feroz/Cofee-Spot)
 
-- 🌱 I’m currently relearning **CSS**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are Availible at [**My Portfolio**](https://abdulsamads-portfolio.vercel.app)
 
