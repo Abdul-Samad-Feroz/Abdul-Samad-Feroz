@@ -7,13 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-samad-feroz&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-samad-feroz" /> </p>
 
 
-- 🔭 I’m currently working on a [**Cofee Shop Website**](https://github.com/Abdul-Samad-Feroz/Cofee-Spot)
+- 🔭 I’m currently working on a [**Elixir — Landing Page Website**]()
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are Availible at [**My Portfolio**](https://abdulsamads-portfolio.vercel.app)
+- 🗂️ All of my projects are Availible at [**My Portfolio**](https://abdulsamads-portfolio.vercel.app)
 
-- 📝 I regularly write code on [**Visual Studio Code**]
+- 👨‍💻 I regularly write code on [**Visual Studio Code**]
 
 - 📫 How to reach me **sanaa1engineering@gmail.com**
 
