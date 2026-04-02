@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-samad-feroz&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-samad-feroz" /> </p>
 
 
-- 🔭 I’m currently working on a [**Assignments**](https://smit-assignments-nine.vercel.app)
+- 🔭 I’m currently working on [**Assignments**](https://smit-assignments-nine.vercel.app)
 
 - 🌱 I’m currently learning **JavaScript**
 
