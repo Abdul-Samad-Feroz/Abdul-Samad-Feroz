@@ -47,8 +47,8 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-samad-feroz&show_icons=true&locale=en&layout=compact&theme=dracula" alt="abdul-samad-feroz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-samad-feroz&show_icons=true&locale=en&layout=compact&disable_animations=false&theme=dracula" alt="abdul-samad-feroz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-samad-feroz&show_icons=true&locale=en&theme=dracula" alt="abdul-samad-feroz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-samad-feroz&show_icons=true&locale=en&disable_animations=false&theme=dracula" alt="abdul-samad-feroz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-samad-feroz&theme=dracula" alt="abdul-samad-feroz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-samad-feroz&disable_animations=false&theme=dracula" alt="abdul-samad-feroz" /></p>
