@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
