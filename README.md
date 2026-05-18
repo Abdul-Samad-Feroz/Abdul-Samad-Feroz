@@ -48,6 +48,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-samad-feroz&show_icons=true&locale=en&layout=compact&disable_animations=false&theme=dracula" alt="abdul-samad-feroz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-samad-feroz&show_icons=true&locale=en&disable_animations=false&theme=dracula" alt="abdul-samad-feroz" /></p>
+<p>&nbsp;<img align="center" src="https://https://readme-stats.demolab.com?user=abdul-samad-feroz&show_icons=true&locale=en&disable_animations=false&theme=dracula" alt="abdul-samad-feroz" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=abdul-samad-feroz&locale=en&mode=daily&theme=dracula&order=3" alt="abdul-samad-feroz" /></p>
