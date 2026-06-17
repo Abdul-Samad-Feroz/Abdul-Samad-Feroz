@@ -20,12 +20,12 @@
 - ⚡ Fun fact **The Prophet Muhammad (S.A.W) said: "Whoever makes things easy for others, Allah will make things easy for him in this world and the Hereafter." (Sahih Muslim)**
 
 <h3 align="left">Connect with me:</h3>
-<div align="left">
+<p align="left">
 <a href="https://www.facebook.com/a.samadferoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul samad feroz" height="30" width="40" /></a>
 
 
 <a href="https://www.instagram.com/a_samad005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul samad feroz" height="30" width="40" /></a>
-</div>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
