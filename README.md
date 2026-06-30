@@ -46,7 +46,10 @@
 </div>
 
 ###
-![](https://github-readme-stats.shion.dev/api?username=abdul-samad-feroz&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)
-![](https://streak-stats.demolab.com/?user=abdul-samad-feroz&theme=dracula&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abdul-samad-feroz&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p><img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=abdul-samad-feroz&disable_animations=false&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.shion.dev/api?username=abdul-samad-feroz&disable_animations=false&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" /></p>
+
+<p><img align="center" src="https://streak-stats.demolab.com/?user=abdul-samad-feroz&disable_animations=false&theme=dracula&hide_border=false&order=3" /></p>
+
 
