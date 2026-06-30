@@ -46,7 +46,7 @@
 </div>
 
 ###
-<p><img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=abdul-samad-feroz&disable_animations=false&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /></p>
+<p><img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=abdul-samad-feroz&disable_animations=false&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.shion.dev/api?username=abdul-samad-feroz&disable_animations=false&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" /></p>
 
