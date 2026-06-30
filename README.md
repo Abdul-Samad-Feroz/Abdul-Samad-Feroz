@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Samad Feroz</h1>
-<h3 align="center">A passionate full-stack developer from Pakistan</h3>
+<h3 align="center">A passionate Fontend Developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/b24c5028-5f73-4c6a-885c-a6f0c6726c2f">
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🗂️ All of my projects are Availible at [**My Portfolio**](https://abdulsamads-portfolio.vercel.app)
+- 🗂️ All of my projects are availible at [**My Portfolio**](https://abdulsamads-portfolio.vercel.app)
 
 - 👨‍💻 I regularly write code on [**Visual Studio Code**]
 
