@@ -15,7 +15,7 @@
 
 - 👨‍💻 I regularly code using [**Visual Studio Code**]
 
-- 📫 How to reach me **sanaa1engineering@gmail.com**
+- 📫 Reach me at **sanaa1engineering@gmail.com**
 
 - ⚡ Fun fact: **The Prophet Muhammad ﷺ said,** 
 
