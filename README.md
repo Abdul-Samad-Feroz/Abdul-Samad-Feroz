@@ -13,11 +13,13 @@
 
 - 🗂️ All of my projects are availible at [**My Portfolio**](https://abdulsamads-portfolio.vercel.app)
 
-- 👨‍💻 I regularly write code on [**Visual Studio Code**]
+- 👨‍💻 I regularly code using [**Visual Studio Code**]
 
 - 📫 How to reach me **sanaa1engineering@gmail.com**
 
-- ⚡ Fun fact **The Prophet Muhammad (S.A.W) said: "Whoever makes things easy for others, Allah will make things easy for him in this world and the Hereafter." (Sahih Muslim)**
+- ⚡ Fun fact: **The Prophet Muhammad ﷺ said,** 
+
+  **"Whoever makes things easy for others, ALLAH will make things easy for him in this world and the Hereafter." (Sahih Muslim)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
