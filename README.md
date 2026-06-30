@@ -42,6 +42,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo"  />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="2" />
+  <img src="https://github.com/user-attachments/assets/3c7506dc-263a-4f89-b5b2-e7d176c869b4" height="40" alt="netlify logo"  />
+  <img width="2" />
+  <img src="https://github.com/user-attachments/assets/38859df4-9a13-4349-a825-f3458a90a618" height="40" alt="vercel logo"  />
 </div>
 
 ###
