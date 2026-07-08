@@ -26,12 +26,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://www.behance.net/https://www.behance.net/abdul-samad-feroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/abdul-samad-feroz" height="38" width="40" /></a>
- <img width="4" />
+ <a href="https://www.behance.net/abdul-samad-feroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/abdul-samad-feroz" height="38" width="40" /></a>
+ <img width="5" />
  <a href="https://www.credly.com/users/abdul-samad-feroz" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f4a3f45a-ce14-4025-a330-04c54bd3082f" alt="abdul samad feroz" height="38" width="38" /></a>
-<img width="4" />
+<img width="5" />
 <a href="https://www.facebook.com/a.samadferoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul samad feroz" height="38" width="40" /></a>
- <img width="4" />
+ <img width="5" />
 <a href="https://www.instagram.com/a_samad005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul samad" height="38" width="40" /></a>
 </p>
 
