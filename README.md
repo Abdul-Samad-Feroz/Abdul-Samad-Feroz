@@ -8,7 +8,7 @@
 
  
 - 🔭 I’m currently updating [**My Portfolio**](https://abdulsamads-portfolio.vercel.app)
- 
+
 - 🌱 I’m currently learning **JavaScript**
 
 - 🗂️ All of my projects are availible at [**My Portfolio**](https://abdulsamads-portfolio.vercel.app) 
