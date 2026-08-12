@@ -9,7 +9,7 @@
 
 - 🔭 I was previously working on [**RGB Color Palette Generator**](https://github.com/Abdul-Samad-Feroz/RGB-Color-Palette-Generator)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python & C**
 
 - 🗂️ All of my projects are availible at [**My Portfolio**](https://abdulsamads-portfolio.vercel.app) 
 
