@@ -17,7 +17,7 @@
 
 - 📫 Reach me at **sanaa1engineering@gmail.com**
 
-- 📄 Have a look at [**My Resume**](https://drive.google.com/file/d/1jojuaPUvwn0sh4WQxdPndEF3QWJweNTr/view?usp=sharing)
+- 📄 Have a look at [**My Resume**](https://drive.google.com/file/d/1caY4AaMG9gOzN_KzC6bz8_3Y1MTt2YOy/view?usp=sharing)
 
 
 - ⚡ Fun fact: **The Prophet Muhammad ﷺ said,** 
