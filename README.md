@@ -50,13 +50,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   <img width="6" />
 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="6" />
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C" />
+  <img width="6" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img width="6" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="Git" />
   <img width="6" />
 
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  <img width="6" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code" />
   <img width="6" />
 
   <img src="https://github.com/user-attachments/assets/38859df4-9a13-4349-a825-f3458a90a618" height="40" alt="Vercel" />
@@ -65,7 +71,7 @@
   <img src="https://github.com/user-attachments/assets/3c7506dc-263a-4f89-b5b2-e7d176c869b4" height="40" alt="Netlify" />
   <img width="6" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code" />
   <img width="6" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="Arduino" />
