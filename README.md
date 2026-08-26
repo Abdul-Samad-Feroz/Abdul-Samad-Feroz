@@ -83,6 +83,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="Arduino" />
 </div>
 
+ <h4 align="left">Featured Projects:</h4>
+
+| Project | Description | Tech | Live Demo |
+|---|---|---|---|
+| **The Signature Detailing** | Modern and responsive car detailing website showcasing premium services, completed work, and online booking. | HTML5 · CSS3 · JavaScript · Bootstrap | [Live Demo](https://the-signature-detailing.vercel.app) |
+| **My Portfolio** | Personal developer portfolio showcasing my skills, projects, and web development journey. | HTML5 · CSS3 · JavaScript · Bootstrap | [Live Demo](https://abdulsamads-portfolio.vercel.app) |
+| **RGB Color Palette Generator** | JavaScript-based tool for generating random color palettes and easily copying color codes. | HTML5 · CSS3 · JavaScript | [Live Demo](https://rgb-color-palette-generator.vercel.app) |
+| **XB Shop** | Modern and responsive e-commerce landing page focused on clean design and a polished user experience. | HTML5 · CSS3 | [Live Demo](https://xb-shop.vercel.app) |
+
 <h3 align="left">GitHub Statistics:</h3>
 
 <p><img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=abdul-samad-feroz&disable_animations=false&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /></p>
