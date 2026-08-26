@@ -87,10 +87,10 @@
 
 | Project | Description | Tech | Live Demo |
 |---|---|---|---|
-| **The Signature Detailing** | Modern and responsive car detailing website showcasing premium services, completed work, and online booking. | HTML5 · CSS3 · JavaScript · Bootstrap | [Live Demo](https://the-signature-detailing.vercel.app) |
-| **My Portfolio** | Personal developer portfolio showcasing my skills, projects, and web development journey. | HTML5 · CSS3 · JavaScript · Bootstrap | [Live Demo](https://abdulsamads-portfolio.vercel.app) |
-| **RGB Color Palette Generator** | JavaScript-based tool for generating random color palettes and easily copying color codes. | HTML5 · CSS3 · JavaScript | [Live Demo](https://rgb-color-palette-generator.vercel.app) |
-| **XB Shop** | Modern and responsive e-commerce landing page focused on clean design and a polished user experience. | HTML5 · CSS3 | [Live Demo](https://xb-shop.vercel.app) |
+| **The Signature Detailing** | Modern and responsive car detailing website showcasing premium services, completed work, and online booking. | HTML5 · CSS3 · JavaScript · Bootstrap | [**Live Demo**](https://the-signature-detailing.vercel.app) |
+| **My Portfolio** | Personal developer portfolio showcasing my skills, projects, and web development journey. | HTML5 · CSS3 · JavaScript · Bootstrap | [**Live Demo**](https://abdulsamads-portfolio.vercel.app) |
+| **RGB Color Palette Generator** | JavaScript-based tool for generating random color palettes and easily copying color codes. | HTML5 · CSS3 · JavaScript | [**Live Demo**](https://rgb-color-palette-generator.vercel.app) |
+| **XB Shop** | Modern and responsive e-commerce landing page focused on clean design and a polished user experience. | HTML5 · CSS3 | [**Live Demo**](https://xb-shop.vercel.app) |
 
 <h3 align="left">GitHub Statistics:</h3>
 
