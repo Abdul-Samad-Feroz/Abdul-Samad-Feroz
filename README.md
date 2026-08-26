@@ -81,7 +81,47 @@
   <img width="6" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="Arduino" />
-</div>
+  </div>
+
+  <h3 align="left">Featured Projects:</h3>
+
+  <table>
+    <tr>
+    <td width="50%">
+    <h4>🚗 The Signature Detailing</h4>
+    <p>A modern and responsive car detailing website showcasing premium services, completed work, and online booking.</p>
+    <a href="https://github.com/Abdul-Samad-Feroz/The-Signature-Detailing">GitHub</a>
+    •
+    <a href="https://the-signature-detailing.vercel.app">Live Demo</a>
+    </td>
+
+  <td width="50%">
+    <h4>💻 My Portfolio</h4>
+    <p>A personal developer portfolio showcasing my skills, projects, and journey in web development.</p>
+    <a href="https://github.com/Abdul-Samad-Feroz/Portfolio-Website">GitHub</a>
+    •
+    <a href="https://abdulsamads-portfolio.vercel.app">Live Demo</a>
+    </td>
+    </tr>
+
+  <tr>
+    <td width="50%">
+    <h4>🎨 RGB Color Palette Generator</h4>
+    <p>A JavaScript-based color palette generator that creates random colors and allows users to easily copy color codes.</p>
+    <a href="https://github.com/Abdul-Samad-Feroz/RGB-Color-Palette-Generator">GitHub</a>
+    •
+    <a href="https://rgb-color-palette-generator.vercel.app">Live Demo</a>
+    </td>
+
+   <td width="50%">
+   <h4>🛍️ XB Shop</h4>
+   <p>A modern and responsive e-commerce landing page featuring a clean, visually appealing design and a polished user experience.</p>
+   <a href="https://github.com/Abdul-Samad-Feroz/XB-Shop">GitHub</a>
+    •
+   <a href="https://xb-shop.vercel.app">Live Demo</a>
+   </td>
+   </tr>
+   </table>
 
 <h3 align="left">GitHub Statistics:</h3>
 
