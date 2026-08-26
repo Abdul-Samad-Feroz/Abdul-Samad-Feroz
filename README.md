@@ -20,9 +20,7 @@
 - 📄 Have a look at [**My Resume**](https://drive.google.com/file/d/1caY4AaMG9gOzN_KzC6bz8_3Y1MTt2YOy/view?usp=sharing)
 
 
-- ⚡ Fun fact: **The Prophet Muhammad ﷺ said,** 
-
-  **"Whoever makes things easy for others, ALLAH will make things easy for him in this world and the Hereafter." (Sahih Muslim)**
+- ⚡ Fun fact: **!false — It's funny because it's true.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
