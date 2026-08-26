@@ -7,13 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-samad-feroz&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-samad-feroz" /> </p>
 
 
-- 🔭 I was previously working on [**RGB Color Palette Generator**](https://github.com/Abdul-Samad-Feroz/RGB-Color-Palette-Generator)
+- 🔭 I previously worked on [**RGB Color Palette Generator**](https://github.com/Abdul-Samad-Feroz/RGB-Color-Palette-Generator)
 
 - 🌱 I’m currently learning **Python & C**
 
-- 🗂️ All of my projects are availible at [**My Portfolio**](https://abdulsamads-portfolio.vercel.app) 
+- 🗂️ All of my projects are available at [**My Portfolio**](https://abdulsamads-portfolio.vercel.app) 
 
-- 👨‍💻 I regularly code using [**Visual Studio Code**]
+- 👨‍💻 I regularly code using **Visual Studio Code**
 
 - 📫 Reach me at **sanaa1engineering@gmail.com**
 
