@@ -75,7 +75,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="Arduino" />
 </div>
 
-<h3 align="left">GitHub Statistics</h3>
+<h3 align="left">GitHub Statistics:</h3>
 
 <p><img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=abdul-samad-feroz&disable_animations=false&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /></p>
 
