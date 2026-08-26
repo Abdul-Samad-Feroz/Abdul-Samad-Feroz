@@ -83,7 +83,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="Arduino" />
 </div>
 
- <h4 align="left">Featured Projects:</h4>
+ <h3 align="left">Featured Projects:</h3>
 
 | Project | Description | Tech | Live Demo |
 |---|---|---|---|
