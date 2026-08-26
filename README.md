@@ -33,7 +33,9 @@
 <a href="https://www.instagram.com/a_samad005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul samad" height="38" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
+
+<h4 align="left">Languages:</h4>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
@@ -45,9 +47,6 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
   <img width="6" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img width="6" />
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="6" />
 
@@ -55,8 +54,17 @@
   <img width="6" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img width="6" />
+  </div>
 
+  <h4 align="left">Frameworks & Libraries:</h4>
+
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  </div>
+
+  <h4 align="left">Tools & Platforms:</h4>
+  
+  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="Git" />
   <img width="6" />
 
