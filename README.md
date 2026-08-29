@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact: **!false — It's funny because it's true.**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
  <a href="https://www.behance.net/abdul-samad-feroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/abdul-samad-feroz" height="38" width="40" /></a>
  <img width="5" />
@@ -33,7 +33,7 @@
 <a href="https://www.instagram.com/a_samad005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul samad" height="38" width="40" /></a>
 </p>
 
-<h3 align="left">Tech Stack:</h3>
+<h2 align="left">Tech Stack:</h2>
 
 <h4 align="left">Languages:</h4>
 
@@ -89,7 +89,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="Arduino" />
 </div>
 
- <h3 align="left">Featured Projects:</h3>
+ <h2 align="left">Featured Projects:</h2>
 
 | Project | Description | Tech | Live Demo |
 |---|---|---|---|
@@ -98,7 +98,7 @@
 | **RGB Color Palette Generator** | JavaScript-based tool for generating random color palettes and easily copying color codes. | HTML5 · CSS3 · JavaScript | [**Live Demo**](https://rgb-color-palette-generator.vercel.app) |
 | **XB Shop** | Modern and responsive e-commerce landing page focused on clean design and a polished user experience. | HTML5 · CSS3 | [**Live Demo**](https://xb-shop.vercel.app) |
 
-<h3 align="left">GitHub Statistics:</h3>
+<h2 align="left">GitHub Statistics:</h2>
 
 <p><img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=abdul-samad-feroz&disable_animations=false&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /></p>
 
