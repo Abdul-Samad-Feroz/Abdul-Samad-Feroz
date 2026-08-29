@@ -60,6 +60,9 @@
 
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img width="6" />
+   
+  <img src="https://github.com/user-attachments/assets/e3bb1873-45d2-4a97-91d7-849ed4c05a41" height="36" alt="Font Awesome" />
   </div>
 
   <h4 align="left">Tools & Platforms:</h4>
