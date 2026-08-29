@@ -83,6 +83,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code" />
   <img width="6" />
 
+  <img src="https://github.com/user-attachments/assets/2e65f3cb-da1d-484e-b641-6d398f919242" height="40" alt="Prettier" />
+  <img width="6" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="Arduino" />
 </div>
 
