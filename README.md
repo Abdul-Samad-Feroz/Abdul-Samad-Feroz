@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-samad-feroz&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-samad-feroz" /> </p>
 
 
-- 🔭 I previously worked on [**RGB Color Palette Generator**](https://github.com/Abdul-Samad-Feroz/RGB-Color-Palette-Generator)
+- 🔭 I'm currently upgrading my [**Portfolio Website**](https://github.com/Abdul-Samad-Feroz/Portfolio-Website)
 
 - 🌱 I’m currently learning **Python & C**
 
