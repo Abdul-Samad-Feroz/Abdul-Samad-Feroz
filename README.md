@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently updating [**My Portfolio**](https://github.com/Abdul-Samad-Feroz/Portfolio-Website)
 
-- 🌱 I’m currently learning **Python & C**
+- 🌱 I’m currently learning **Python**
 
 - 🗂️ All of my projects are available at [**My Portfolio**](https://abdulsamads-portfolio.vercel.app) 
 
