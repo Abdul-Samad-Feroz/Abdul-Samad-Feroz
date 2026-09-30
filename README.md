@@ -2,7 +2,7 @@
 <h3 align="center">A Frontend Developer & Aspiring Software Developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/3320fc17-663d-42d4-a7d5-ed9e5199ebd3" >
- 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-samad-feroz&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-samad-feroz" /> </p>
 
